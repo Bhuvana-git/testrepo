@@ -9,3 +9,4 @@
 5. Track changes
 6. Commit changes
 7. Push Changes
+8. Create branches and make changes
