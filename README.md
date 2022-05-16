@@ -9,3 +9,5 @@
 5. Track changes
 6. Commit changes
 7. Push Changes to remote
+8. Create Branches
+9. Edit file
