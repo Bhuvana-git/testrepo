@@ -6,3 +6,6 @@
 2. Create new repository
 3. Add content to the file
 4. Save changes
+5. Track changes
+6. Commit changes
+7. Push Changes
