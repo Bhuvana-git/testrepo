@@ -8,4 +8,4 @@
 4. Save changes
 5. Track changes
 6. Commit changes
-7. Push Changes
+7. Push Changes to remote
