@@ -9,3 +9,6 @@
 5. Track changes
 6. Commit changes
 7. Push Changes to remote
+8. Make new changes
+9. REPUSH
+
